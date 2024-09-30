@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on anything I have an idea about
-- 📫 How to reach me kasimntale2@gmail.com
 - ⚡ Fun fact: Am not very short
 
 <!---
